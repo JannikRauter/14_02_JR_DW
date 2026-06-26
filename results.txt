@@ -2,4 +2,8 @@ Computer Name: Davids-Laptop
 Date of Test: 2026-06-26 22:00:06
 Bubble Sort Time: 6.097047 seconds
 Quick Sort Time: 0.014086 seconds
+Computer Name: TABLET-II9GS06D
+Date of Test: 2026-06-26 21:58:41
+Bubble Sort Time: 12.521358 seconds
+Quick Sort Time: 0.025236 seconds
 
