@@ -1,0 +1,5 @@
+Computer Name: Davids-Laptop
+Date of Test: 2026-06-26 22:00:06
+Bubble Sort Time: 6.097047 seconds
+Quick Sort Time: 0.014086 seconds
+
